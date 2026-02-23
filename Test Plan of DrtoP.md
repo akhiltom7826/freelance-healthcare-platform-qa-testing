@@ -28,41 +28,41 @@ Email : akhiltom7826@gmail.com
 
 -   Schedule the appointment
 
-**[Sample Test Cases:]{.mark}**
+**Sample Test Cases:**
 
--   [Verify that users can create and manage their accounts.]{.mark}
+-   Verify that users can create and manage their accounts.
 
--   [Verify that users can log in to their accounts and access their
-    > profile information.]{.mark}
+-   Verify that users can log in to their accounts and access their
+    profile information.
 
--   [Verify that users can reset their passwords if they forget
-    > them.]{.mark}
+-   Verify that users can reset their passwords if they forget
+    them.
 
--   [Verify that users can search for doctors by location and
-    > availability.]{.mark}
+-   Verify that users can search for doctors by location and
+    availability.
 
--   [Verify that users can view doctor\'s profiles and read reviews from
-    > other users.]{.mark}
+-   Verify that users can view doctors' profiles and read reviews from
+    other users.
 
--   [Verify that users can book appointments with doctors.]{.mark}
+-   Verify that users can book appointments with doctors.
 
--   [Verify that the centre can book appointments with doctors and send
-    > confirmation to the]{.mark} Patient[.]{.mark}
+-   Verify that the centre can book appointments with doctors and send
+    confirmation to the Patient.
 
--   [Verify that users can connect with their doctors online at the
-    > scheduled time.]{.mark}
+-   Verify that users can connect with their doctors online at the
+    scheduled time
 
--   [Verify that the online consultation platform is easy to use and
-    > provides good audio and video quality.]{.mark}
+-   Verify that the online consultation platform is easy to use and
+    provides good audio and video quality.
 
--   [Verify that users can share their screens and documents with their
-    > doctors.]{.mark}
+-   Verify that users can share their screens and documents with their
+    doctors.
 
--   [Verify that doctors can customise their clinic.]{.mark}
+-   Verify that doctors can customise their clinic.
 
--   [Verify that doctors can view their patients.]{.mark}
+-   Verify that doctors can view their patients.
 
-**[Approach:]{.mark}**
+**Approach:**
 
 -   I will execute the test cases and document the results.
 
@@ -77,3 +77,4 @@ Email : akhiltom7826@gmail.com
 -   Browser: Chrome 91
 
 -   Resolution:1536 \* 864
+
