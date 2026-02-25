@@ -1,4 +1,4 @@
-# 🧪 Freelance QA Testing Portfolio  
+#  Freelance QA Testing Portfolio  
 ### Project: DrtoP – Healthcare Appointment & Consultation Platform  
 
 ---
@@ -14,15 +14,14 @@ Healthcare / Online Consultation / Appointment Booking System
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 DrtoP is a healthcare platform that allows:
 
 - Patient registration & login  
 - Doctor registration & login  
 - Centre registration  
-- Appointment booking & scheduling  
-- Online consultation (audio/video)  
+- Appointment booking & scheduling   
 - Doctor profile customisation  
 - OTP-based authentication  
 
@@ -30,19 +29,16 @@ This repository demonstrates my complete manual testing lifecycle for the projec
 
 ---
 
-## 🧪 Testing Activities Performed
+##  Testing Activities Performed
 
 ✔ Requirement Understanding  
 ✔ Test Planning  
 ✔ Test Case Design (120+ Test Cases)  
 ✔ Test Execution  
-✔ Defect Reporting  
-✔ Retesting of Fixed Defects  
+✔ Defect Reporting   
 ✔ Usability & UX Review  
 ✔ Validation & Negative Testing  
 ✔ Basic Performance Testing  
 
 ---
-
-## 📁 Repository Structure
 
